@@ -1,4 +1,4 @@
-# Image Sharpening Method With Laplacian.
+# Image Sharpening Methods With Laplacian
 
 Demonstrating 3 image sharpening techniques using the Laplacian filter.
 The Laplacian filter is commonly used for enhancing image edges and details.
