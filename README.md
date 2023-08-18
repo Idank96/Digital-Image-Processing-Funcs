@@ -2,6 +2,7 @@ The library includes essential image processing operations.
 
 Features:
 1. Error Diffusion with varying levels
+2. 3 image sharpening techniques using the Laplacian filter.
 
 
 # General
